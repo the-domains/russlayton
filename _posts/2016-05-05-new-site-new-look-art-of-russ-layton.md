@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'new site --- new look:: Art of Russ Layton'
-datePublished: '2016-05-05T19:22:19.627Z'
-dateModified: '2016-05-05T19:22:15.580Z'
+datePublished: '2016-05-05T19:31:00.164Z'
+dateModified: '2016-05-05T19:30:38.039Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-new-site-new-look-art-of-russ-layton.md
@@ -21,6 +21,6 @@ url: new-site-new-look-art-of-russ-layton/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9568729c-be12-44c5-be6f-dc48ac59eef5.jpg)
+
 new site --- new look:: Art of Russ Layton
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00c8455c-8dee-4725-b88c-a9d10a83a361.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b226583e-a400-4235-b86b-48c45ddcf032.jpg)

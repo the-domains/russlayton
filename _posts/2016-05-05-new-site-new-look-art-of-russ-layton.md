@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'new site --- new look:: Art of Russ Layton'
-datePublished: '2016-05-05T19:46:53.672Z'
-dateModified: '2016-05-05T19:45:17.674Z'
+datePublished: '2016-05-05T20:07:28.185Z'
+dateModified: '2016-05-05T19:47:34.562Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-new-site-new-look-art-of-russ-layton.md
